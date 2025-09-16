@@ -51,4 +51,4 @@ The project also features a **Graphical User Interface (GUI)** for easy interact
 
 ### Packing files  
 ```bash
-java MarvellousFilePacker Demo MarvellousPack.txt
+java MarvellousPackerUnpackerMain Demo MarvellousPack.txt
